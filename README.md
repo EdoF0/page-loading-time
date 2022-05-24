@@ -2,7 +2,16 @@
 # Page Loading Time js
 
 **PageLoadingTime** is a super-small and super-simple JavaScript document that allows to recive in the console the loading time of your HTML page.  
-The script should be placed immediately after the `<html>` tag for optimal performance.
+The script should be placed immediately after the `<html>` tag for optimal performance.  
+Example:
+```html
+<!DOCTYPE html>
+<html>
+<script> /* script here */ </script>
+<head> <!-- head here --> </head>
+<body> <!-- body here --> </body>
+</html>
+```
 
 ## What do I read?
 
